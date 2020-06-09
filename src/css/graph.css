@@ -1,0 +1,16 @@
+.chartWrapper {
+  background-color: white;
+  position: relative;
+  bottom: 0;
+}
+
+.insertionSort {
+  border: none;
+  background-color: rgba(46, 226, 136, 0.5);
+  height: 40px;
+  width: 140px;
+  border-radius: 5px;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+}
