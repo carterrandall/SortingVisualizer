@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/carterrandall/SortingVisualizer/static/css/main.ebc60d54.chunk.css",
+    "main.js": "/carterrandall/SortingVisualizer/static/js/main.8a71d7e3.chunk.js",
+    "main.js.map": "/carterrandall/SortingVisualizer/static/js/main.8a71d7e3.chunk.js.map",
+    "runtime-main.js": "/carterrandall/SortingVisualizer/static/js/runtime-main.bc645321.js",
+    "runtime-main.js.map": "/carterrandall/SortingVisualizer/static/js/runtime-main.bc645321.js.map",
+    "static/css/2.6883e14e.chunk.css": "/carterrandall/SortingVisualizer/static/css/2.6883e14e.chunk.css",
+    "static/js/2.aaa4e09c.chunk.js": "/carterrandall/SortingVisualizer/static/js/2.aaa4e09c.chunk.js",
+    "static/js/2.aaa4e09c.chunk.js.map": "/carterrandall/SortingVisualizer/static/js/2.aaa4e09c.chunk.js.map",
+    "index.html": "/carterrandall/SortingVisualizer/index.html",
+    "precache-manifest.44304da1baf421e894cabde25c285817.js": "/carterrandall/SortingVisualizer/precache-manifest.44304da1baf421e894cabde25c285817.js",
+    "service-worker.js": "/carterrandall/SortingVisualizer/service-worker.js",
+    "static/css/2.6883e14e.chunk.css.map": "/carterrandall/SortingVisualizer/static/css/2.6883e14e.chunk.css.map",
+    "static/css/main.ebc60d54.chunk.css.map": "/carterrandall/SortingVisualizer/static/css/main.ebc60d54.chunk.css.map",
+    "static/js/2.aaa4e09c.chunk.js.LICENSE.txt": "/carterrandall/SortingVisualizer/static/js/2.aaa4e09c.chunk.js.LICENSE.txt",
+    "static/media/algorithms.c227efaa.svg": "/carterrandall/SortingVisualizer/static/media/algorithms.c227efaa.svg",
+    "static/media/array.1107e9f3.svg": "/carterrandall/SortingVisualizer/static/media/array.1107e9f3.svg",
+    "static/media/back.11220a61.svg": "/carterrandall/SortingVisualizer/static/media/back.11220a61.svg",
+    "static/media/down.3fc89807.svg": "/carterrandall/SortingVisualizer/static/media/down.3fc89807.svg",
+    "static/media/play.52de000d.svg": "/carterrandall/SortingVisualizer/static/media/play.52de000d.svg",
+    "static/media/reset.ef121d6b.svg": "/carterrandall/SortingVisualizer/static/media/reset.ef121d6b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc645321.js",
+    "static/css/2.6883e14e.chunk.css",
+    "static/js/2.aaa4e09c.chunk.js",
+    "static/css/main.ebc60d54.chunk.css",
+    "static/js/main.8a71d7e3.chunk.js"
+  ]
+}
